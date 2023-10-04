@@ -87,7 +87,7 @@ $(document).ready(function() {
 			<input readonly class="product0"></input>
 			<input readonly class="amount0"></input>
 			</div>`)
-			$('.product0').val("Product1");
+			$('.product0').val("Фигурка Годжо Сатору");
 			$('.amount0').val(cart[i]);
 					break;
 
@@ -99,7 +99,7 @@ $(document).ready(function() {
 			<input readonly class="product1"></input>
 			<input readonly class="amount1"></input>
 			</div>`)
-			$('.product1').val("Product2");
+			$('.product1').val("Манга Магическая битва");
 			$('.amount1').val(cart[i]);
 					break;
 		
@@ -111,7 +111,7 @@ $(document).ready(function() {
 			<input readonly class="product2"></input>
 			<input readonly class="amount2"></input>
 			</div>`)
-			$('.product2').val("Product3");
+			$('.product2').val("Фигурка Пейн");
 			$('.amount2').val(cart[i]);
 					break;
 			
@@ -123,7 +123,7 @@ $(document).ready(function() {
 			<input readonly class="product3"></input>
 			<input readonly class="amount3"></input>
 			</div>`)
-			$('.product3').val("Product4");
+			$('.product3').val("Фигурка Наруто");
 			$('.amount3').val(cart[i]);
 					break;
 			
@@ -135,7 +135,7 @@ $(document).ready(function() {
 			<input readonly class="product4"></input>
 			<input readonly class="amount4"></input>
 			</div>`)
-			$('.product4').val("Product5");
+			$('.product4').val("Фигурка Итадори Юдзи");
 			$('.amount4').val(cart[i]);
 					break;
 
